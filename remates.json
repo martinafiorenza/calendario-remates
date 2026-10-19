@@ -1,7 +1,7 @@
 {
   "meta": {
     "titulo": "Remates ganaderos y exposiciones 2026",
-    "generado": "2026-10-05",
+    "generado": "2026-10-15",
     "provincias": [
       "Buenos Aires",
       "Chaco",
@@ -1779,7 +1779,7 @@
       "firma": "Norte Grande Fontana / Ganaderos de Formosa",
       "grupo": "Cabañas",
       "cabana": "Norte Grande Fontana",
-      "fecha": "2026-11-21",
+      "fecha": "2026-11-27",
       "hora": "",
       "loc": "Comandante Fontana",
       "prov": "Formosa",
@@ -4646,6 +4646,74 @@
       "confianza": "confirmado",
       "fuente": "laradio1029.com.ar / derechadiario.com.ar",
       "sourceUrl": "https://www.laradio1029.com.ar/2026/09/30/san-francisco-expone-2026-precios-de-entradas-cronograma-y-todo-lo-que-hay-que-saber/"
+    },
+    {
+      "id": "argc-riocuarto-1023",
+      "firma": "ArgenCarnes",
+      "grupo": "ArgenCarnes",
+      "cabana": "Especial de Invernada y Cría (ArgenCarnes)",
+      "fecha": "2026-10-23",
+      "hora": "10:00",
+      "loc": "Río Cuarto",
+      "prov": "Córdoba",
+      "lat": -33.13,
+      "lng": -64.35,
+      "tipo": "Invernada/Cría",
+      "modalidad": "Presencial",
+      "confianza": "confirmado",
+      "fuente": "consignatarias.com.ar / cacg.org.ar (planilla de remates)",
+      "sourceUrl": "https://cacg.org.ar/planilla-de-remates"
+    },
+    {
+      "id": "eb-geneticarentable-1015",
+      "firma": "Genética Rentable / U.M.C. S.A. - Compañía Misionera de Haciendas S.R.L.",
+      "grupo": "Cabañas",
+      "cabana": "Genética Rentable",
+      "fecha": "2026-10-15",
+      "hora": "",
+      "loc": "Quimilí",
+      "prov": "Santiago del Estero",
+      "lat": -27.64,
+      "lng": -62.42,
+      "tipo": "Reproductores",
+      "modalidad": "Presencial",
+      "confianza": "confirmado",
+      "fuente": "e-brangus.com",
+      "sourceUrl": "https://e-brangus.com/10-remates-brangus-octubre-2026/genetica-rentable-jueves-15-de-octubre-2026/"
+    },
+    {
+      "id": "brf-juramento-1002",
+      "firma": "Cabaña Juramento / Colombo y Magliano",
+      "grupo": "Cabañas",
+      "cabana": "2º Remate Anual Cabaña Juramento",
+      "fecha": "2026-10-02",
+      "hora": "14:00",
+      "loc": "Joaquín V. González",
+      "prov": "Salta",
+      "lat": null,
+      "lng": null,
+      "tipo": "Reproductores Brangus y Braford",
+      "modalidad": "Presencial + streaming",
+      "confianza": "confirmado",
+      "fuente": "Braford - Calendario de Remates Auspiciados 2026",
+      "sourceUrl": "https://www.braford.org.ar/calendario-de-remates-auspiciados-2026/"
+    },
+    {
+      "id": "brf-canoa-1005",
+      "firma": "Cabañas Asociadas del NOA (CANOA)",
+      "grupo": "Cabañas",
+      "cabana": "20º Remate Anual CANOA",
+      "fecha": "2026-10-05",
+      "hora": "18:00",
+      "loc": "Salta Capital",
+      "prov": "Salta",
+      "lat": null,
+      "lng": null,
+      "tipo": "Reproductores Brangus y Braford",
+      "modalidad": "Presencial",
+      "confianza": "confirmado",
+      "fuente": "Canal Ganadero / Braford",
+      "sourceUrl": "https://canalganadero.com.ar/20-remate-anual-canoa/"
     }
   ]
 }
